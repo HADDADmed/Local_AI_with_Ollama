@@ -1,0 +1,8 @@
+# Local AI with Ollama lab — Python 3.11, Ollama server on localhost:11434
+requests
+pandas
+numpy
+matplotlib
+flask
+psutil
+ipykernel
